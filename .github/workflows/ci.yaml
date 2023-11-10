@@ -25,5 +25,5 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: false
-          tags: madzone/ci-go:latest
+          tags: madzone/ci:latest
 
